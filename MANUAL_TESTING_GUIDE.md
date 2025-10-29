@@ -98,7 +98,7 @@ npm run dev
 ### Additional Test Users
 | Username | Password | Role | Email |
 |----------|----------|------|-------|
-| aryan789 | password123 | USER | bhattaryan789@gmail.com |
+| aryan789 | 1234 | USER | bhattaryan789@gmail.com |
 | agent1 | agent123 | SUPPORT_AGENT | agent1@ticketing.com |
 | testuser | test123 | USER | testuser@ticketing.com |
 
